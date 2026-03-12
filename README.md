@@ -1,17 +1,21 @@
 Ex.No: 8 – Reproducing an Image Using Prompts for Image Generation
+
 NAME: Noorul Aslina M
 REGISTER NUMBER: 212223050033
+
 Aim
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image that closely resembles the original.
 Tools / LLMs for Image Generation
 DALL·E (OpenAI) – Generates high-quality images from text prompts.
 Stable Diffusion – Open-source text-to-image generation model.
 MidJourney – AI image generator known for creative visual outputs.
+
 Explanation
 Text-to-image generation models use natural language prompts to generate images. These models analyze the textual description and convert it into visual elements such as objects, colors, textures, lighting, and artistic styles.
 In this experiment, the provided image is carefully analyzed to identify its visual components. Based on these elements, a prompt is created and refined multiple times to generate an image similar to the original.
 The quality of the generated image depends heavily on the accuracy and detail of the prompt. By iteratively refining prompts, the generated output can become closer to the reference image.
 Procedure
+
 1.Analyze the Given Image
 Carefully observe the provided image and identify:
 Objects or subjects present in the image
@@ -55,6 +59,7 @@ Composition
 Subject
 Lighting
 Style
+
 If the generated image does not closely match the original, refine the prompt further.
 Selected Image 1 – Sunset Landscape
 <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/46330a35-6b6c-46e4-bf07-1d36f546b6db" />
